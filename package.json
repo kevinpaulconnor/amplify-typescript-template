@@ -1,5 +1,5 @@
 {
-  "name": "wordle_golf_leaderboard",
+  "name": "amplify-typescript-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
@@ -25,6 +25,7 @@
   "devDependencies": {
     "@types/node": "^17.0.15",
     "copyfiles": "^2.4.1",
+    "rimraf": "^3.0.2",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.5"
   }
